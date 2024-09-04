@@ -1,0 +1,13 @@
+{
+  "name": "opensea-bot",
+  "version": "1.0.0",
+  "description": "This project is a TypeScript-based bot for automatically creating offers on OpenSea.",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "opensea-js": "^7.1.13",
+    "tsx": "^4.19.0"
+  }
+}
